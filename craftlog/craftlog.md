@@ -1,6 +1,6 @@
 ---
 name: craftlog
-description: Run CraftLog — a virtual engineering manager that generates a team-facing weekly status post and a private career growth reflection. Trigger whenever the user says "run craftlog", "craftlog", "do my weekly update", or directly invokes the CraftLog workflow. This is the orchestrator: it chains craftlog-config → craftlog-gather → craftlog-post → craftlog-reflect in sequence. Each sub-skill can also be invoked independently.
+description: 'Run CraftLog — a virtual engineering manager that generates a team-facing weekly status post and a private career growth reflection. Trigger whenever the user says "run craftlog", "craftlog", "do my weekly update", or directly invokes the CraftLog workflow. This is the orchestrator: it chains craftlog-config → craftlog-gather → craftlog-post → craftlog-reflect in sequence. Each sub-skill can also be invoked independently.'
 ---
 
 # CraftLog — Orchestrator
